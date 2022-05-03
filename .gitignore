@@ -1,0 +1,4 @@
+*.ogg
+visplay
+compile_commands.json
+.ccls-cache
